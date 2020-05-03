@@ -1,0 +1,6 @@
+Language: Python 3.7
+
+Libraries/packages:
+zmq, json, sys, time, threading, random, re, pickle, os
+
+Operating system: Ubuntu 18.04 / MacOS High Sierra version 10.13.6
